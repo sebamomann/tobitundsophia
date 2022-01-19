@@ -188,7 +188,7 @@
     </div>
 
 
-    <div class="segment sg-career" id="career">
+    <div class="segment sg-career" id="timeline">
         <div class="segment-wrapper sg-contained">
             <h2 class="headline hl-dark fade" fade="fade-in-scale">
                 Timeline

@@ -272,6 +272,18 @@ p {
   color: rgb(187, 187, 187)
 }
 
+.scroll-wrapper {
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  bottom: 0;
+  position: absolute !important;
+}
+
+.scroll-down {
+  width: 100px;
+  opacity: 0.5 !important;
+}
 
 
 
@@ -1121,8 +1133,21 @@ p {
     top: 0;
   }
 
+  .dash-info-wrapper .name .first-name {
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .dash-info-wrapper .name .last-name {
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+  }
+
   .dash-info-wrapper .profession {
-    display: none;
+    padding-left: 0;
+    margin: 10vh auto 0;
   }
 
   .name {
@@ -1136,6 +1161,13 @@ p {
     letter-spacing: unset;
   }
   
+
+  .scroll-down {
+    bottom: -10px;
+    position: absolute;
+    width: 75px;
+  }
+
 
 
 

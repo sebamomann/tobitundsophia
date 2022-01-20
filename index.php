@@ -137,21 +137,24 @@
                     </span>
                 </div>
             </div>
+            <!-- <div class="scroll-wrapper fade" fade-delay="2000">
+                <img src="./img/scroll.gif" class="scroll-down fade" fade-delay="3000">
+            </div> -->
         </div>
     </div>
 
 
     <div class="segment sg-main bright parallax" id="main">
-        <div class="segment-wrapper sg-contained ">
+        <div class="segment-wrapper sg-contained sg-float">
             <div class="sg-main-info sg-left">
                 <div class="main-info-wrapper">
                     <div class='info-block fade bright' fade="fade-in-left">
                         <section>
                             <h1>
-                                Information 1
+                                Informationen
                             </h1>
                             <p>
-                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+                                Stand jetzt gibt es noch keine neuen Informationen. Wir hoffen und beten, dass unsere Hochzeit wie geplant stattfinden kann.
                             </p>
                         </section>
                     </div>
@@ -159,24 +162,10 @@
                     <div class='info-block fade bright' fade="fade-in-left">
                         <section>
                             <h2>
-                                Information 2
+                                Updates
                             </h2>
                             <p>
-                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-                            </p>
-                        </section>
-                    </div>
-
-                    <div class='info-block fade bright' fade="fade-in-left">
-                        <section>
-                            <h2>
-                                Information 3
-                            </h2>
-                            <p>
-                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-                            </p>
-                            <p>
-                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+                                Sollte es Updates geben, werden diese hier auf der Seite aufgelistet.
                             </p>
                         </section>
                     </div>
@@ -197,46 +186,32 @@
             <div class="cv">
                 <div class="cv-entity">
                     <h3 class="year">
-                        11:00 - 11:30Uhr
-                    </h3>
-                    <h2 class="fade" fade="fade-in-right">
-                        Sektempfang
-                    </h2>
-                    <p class="fade" fade="fade-in-right" fade-delay="500">
-                        Wir treffen uns vor der Kirche zu einem gemütlichen Sektempfang
-                    </p>
-                </div>
-                <div class="cv-entity">
-                    <h3 class="year">
-                        11:30 - 12:30Uhr
+                        14:00 - 15:00Uhr
                     </h3>
                     <h2 class="fade" fade="fade-in-left">
                         Trauung
                     </h2>
-                    <p class="fade" fade="fade-in-left">
-                        Mein Freitext mit ganz vielen Informationen
-                    </p>
                 </div>
                 <div class="cv-entity">
                     <h3 class="year">
-                        12:30 - 13:00Uhr
+                        15:00 - 15:30Uhr
                     </h3>
                     <h2 class="fade" fade="fade-in-right">
                         Fotos
                     </h2>
-                    <p class="fade" fade="fade-in-left">
+                    <p class="fade" fade="fade-in-right" fade-delay="500">
                         Jo, wir machen Fotos
                     </p>
                 </div>
                 <div class="cv-entity">
                     <h3 class="year">
-                        13:00 - 15:00Uhr
+                        ab 15:30Uhr
                     </h3>
-                    <h2 class="fade" fade="fade-in-right">
-                        Kaffee und Kuchen
+                    <h2 class="fade" fade="fade-in-left">
+                        Sekt, Kaffee und Kuchen
                     </h2>
-                    <p class="fade" fade="fade-in-left">
-                        Im Anschluss zur Trauung treffen wir uns zum Kaffee und Kuchen im Gemeindehaus Heidelsheim
+                    <p class="fade" fade="fade-in-left" fade-delay="500">
+                        Im Anschluss zur Trauung treffen wir uns zum Kaffee und Kuchen
                     </p>
                 </div>
             </div>
@@ -247,8 +222,8 @@
         <div class="segment-wrapper">
             <div class="quote-wrapper">
                 <p class="quote">
-                    Wo du hingehst, da will ich auch hingehen; wo du bleibst, da bleibe ich auch.
-                    <span>Ruth 1,16</span>
+                    Befiehl dem HERRN deine Wege und hoffe auf ihn, er wird's wohlmachen.
+                    <span>Psalm 37,5</span>
                 </p>
             </div>
         </div>

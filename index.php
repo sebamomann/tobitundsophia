@@ -133,7 +133,7 @@
                         </span>
                     </span>
                     <span class="profession fade" fade="fade-in-bottom" fade-delay="1000">
-                        am 01.01.1970
+                        am 19.03.2022
                     </span>
                 </div>
             </div>

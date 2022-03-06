@@ -170,7 +170,7 @@
                     <div class='info-block fade bright' fade="fade-in-left">
                         <section>
                             <h1>
-                                Info
+                                Update
                             </h1>
                             <p>
                                 Gott sei Dank gab es in letzter Zeit weitere Lockerungen, sodass wir keine Platzprobleme mehr haben und ihr alle kommen könnt! Danke auch fürs Mitbeten.

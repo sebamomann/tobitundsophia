@@ -225,7 +225,7 @@
                     <div class='info-block fade bright' fade="fade-in-left">
                         <section>
                             <p>
-                                Wir sind schon sehr gespannt und freuen uns auf euch!
+                                Wir sind schon sehr gespannt und freuen uns auf euch!<br /></br>
                                 Sophia&Tobit
                             </p>
                         </section>

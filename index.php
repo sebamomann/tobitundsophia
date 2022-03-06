@@ -151,10 +151,10 @@
                     <div class='info-block fade bright' fade="fade-in-left">
                         <section>
                             <h1>
-                                Informationen
+                                Info
                             </h1>
                             <p>
-                                Stand jetzt gibt es noch keine neuen Informationen. Wir hoffen und beten, dass unsere Hochzeit wie geplant stattfinden kann.
+                                Gott sei Dank gab es in letzter Zeit weitere Lockerungen, sodass wir keine Platzprobleme mehr haben und ihr alle kommen könnt! Danke auch fürs Mitbeten.
                             </p>
                         </section>
                     </div>
@@ -162,10 +162,52 @@
                     <div class='info-block fade bright' fade="fade-in-left">
                         <section>
                             <h2>
-                                Updates
+                                Übertragung
                             </h2>
                             <p>
-                                Sollte es Updates geben, werden diese hier auf der Seite aufgelistet.
+                                Hier der Link zur Übertragung für die, die nicht kommen können: <a href="https://dein.li/tobitundsophia">Stream</a>
+                            </p>
+                        </section>
+                    </div>
+
+                    <div class='info-block fade bright' fade="fade-in-right">
+                        <section>
+                            <h2>
+                                Parkplätze
+                            </h2>
+                            <p>
+                                Wenn ihr mit dem Auto anreist, rechnet am Besten etwas mehr Zeit für die Suche eines Parkplatzes ein.
+                            </p>
+                        </section>
+                    </div>
+
+                    <div class='info-block fade bright' fade="fade-in-left">
+                        <section>
+                            <h2>
+                                Sitzordnung
+                            </h2>
+                            <p>
+                                Die geladenen Gäste, Bengel, Jubuler, SAKler und Hildatreffler werden reservierte Plätze im Mittelschiff haben. Der Rest kann sich einfach selbst Plätze auf den freien Bänken mit genügend Abstand zum Nebensitzer aussuchen :-)
+                            </p>
+                        </section>
+                    </div>
+
+                    <div class='info-block fade bright' fade="fade-in-right">
+                        <section>
+                            <h2>
+                                Sektempfang
+                            </h2>
+                            <p>
+                                Und zum Schluss: der Sektempfang wird draußen stattfinden, also nehmt euch warme Sachen mit ;-)
+                            </p>
+                        </section>
+                    </div>
+
+                    <div class='info-block fade bright' fade="fade-in-left">
+                        <section>
+                            <p>
+                                Wir sind schon sehr gespannt und freuen uns auf euch!
+                                Sophia&Tobit
                             </p>
                         </section>
                     </div>

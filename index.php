@@ -206,7 +206,7 @@
                                 Sitzordnung
                             </h2>
                             <p>
-                                Die geladenen Gäste, Bengel, Jubuler, SAKler und Hildatreffler werden reservierte Plätze im Mittelschiff haben. Der Rest kann sich einfach selbst Plätze auf den freien Bänken mit genügend Abstand zum Nebensitzer aussuchen :-)
+                                Es wird doch einen genauen Sitzplan für jeden Gast geben, den wir auch noch vorab hier hochladen werden, also schaut Freitag/Samstag nochmal rein.
                             </p>
                         </section>
                     </div>

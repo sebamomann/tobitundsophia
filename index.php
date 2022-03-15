@@ -221,8 +221,19 @@
                             </p>
                         </section>
                     </div>
-
+                    
                     <div class='info-block fade bright' fade="fade-in-left">
+                        <section>
+                            <h2>
+                                Für die geladenen Gäste
+                            </h2>
+                            <p>
+                                Bitte macht doch davor einen Schnelltest :-)
+                            </p>
+                        </section>
+                    </div>
+
+                    <div class='info-block fade bright' fade="fade-in-right">
                         <section>
                             <p>
                                 Wir sind schon sehr gespannt und freuen uns auf euch!<br /></br>

@@ -207,7 +207,7 @@
                             </h2>
                             <p>
                                 Es wird doch einen genauen Sitzplan für jeden Gast geben.
-                                Den Sitzplan findet ihr <a href="https://dein.li/tobitundsophia_cloud">hier</a>
+                                Den Sitzplan findet ihr <a href="https://dein.li/tobitundsophia_cloud" target="_blank">hier</a>
                             </p>
                         </section>
                     </div>

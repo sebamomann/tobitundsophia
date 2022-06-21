@@ -145,10 +145,10 @@
                 <div class="transformation-wrapper dash-info-wrapper">
                     <span class="name">
                         <span class="first-name fade" fade="fade-in-left">
-                            Wir
+                            Wir haben
                         </span>
                         <span class="last-name fade" fade="fade-in-right">
-                            Heiraten
+                            geheiratet
                         </span>
                     </span>
                     <span class="profession fade" fade="fade-in-bottom" fade-delay="1000">
@@ -162,117 +162,46 @@
         </div>
     </div>
 
-
-    <div class="segment sg-main bright parallax" id="main">
-        <div class="segment-wrapper sg-contained">
-            <div class="sg-main-info sg-left">
-                <div class="main-info-wrapper">
-                    <div class='info-block fade bright' fade="fade-in-left">
-                        <section>
-                            <h1>
-                                Update
-                            </h1>
-                            <p>
-                                Gott sei Dank gab es in letzter Zeit weitere Lockerungen, sodass wir keine Platzprobleme mehr haben und ihr alle kommen könnt! Danke auch fürs Mitbeten.
-                            </p>
-                        </section>
-                    </div>
-
-                    <div class='info-block fade bright' fade="fade-in-left">
-                        <section>
-                            <h2>
-                                Übertragung
-                            </h2>
-                            <p>
-                                Hier der Link zur Übertragung für die, die nicht kommen können: <a href="https://dein.li/tobitundsophia">Stream</a>
-                            </p>
-                        </section>
-                    </div>
-
-                    <div class='info-block fade bright' fade="fade-in-right">
-                        <section>
-                            <h2>
-                                Parkplätze
-                            </h2>
-                            <p>
-                                Wenn ihr mit dem Auto anreist, rechnet am Besten etwas mehr Zeit für die Suche eines Parkplatzes ein.
-                            </p>
-                        </section>
-                    </div>
-
-                    <div class='info-block fade bright' fade="fade-in-left">
-                        <section>
-                            <h2>
-                                Sitzordnung
-                            </h2>
-                            <p>
-                                Es wird doch einen genauen Sitzplan für jeden Gast geben, den wir auch noch vorab hier hochladen werden, also schaut Freitag/Samstag nochmal rein.
-                            </p>
-                        </section>
-                    </div>
-
-                    <div class='info-block fade bright' fade="fade-in-right">
-                        <section>
-                            <h2>
-                                Sektempfang
-                            </h2>
-                            <p>
-                                Und zum Schluss: der Sektempfang wird draußen stattfinden, also nehmt euch warme Sachen mit ;-)
-                            </p>
-                        </section>
-                    </div>
-
-                    <div class='info-block fade bright' fade="fade-in-left">
-                        <section>
-                            <p>
-                                Wir sind schon sehr gespannt und freuen uns auf euch!<br /></br>
-                                Sophia&Tobit
-                            </p>
-                        </section>
-                    </div>
-                </div>
-            </div>
-
-            <div></div>
-        </div>
-    </div>
-
-
     <div class="segment sg-career" id="timeline">
         <div class="segment-wrapper sg-contained">
             <h2 class="headline hl-dark fade" fade="fade-in-scale">
-                Timeline
+                Bilder
             </h2>
 
             <div class="cv">
                 <div class="cv-entity">
                     <h3 class="year">
-                        14:00 - 15:00Uhr
+
                     </h3>
                     <h2 class="fade" fade="fade-in-left">
-                        Trauung
+                        Gottesdienst und Sektempfang
                     </h2>
-                </div>
-                <div class="cv-entity">
-                    <h3 class="year">
-                        15:00 - 15:30Uhr
-                    </h3>
-                    <h2 class="fade" fade="fade-in-right">
-                        Fotos
-                    </h2>
-                    <p class="fade" fade="fade-in-right" fade-delay="500">
-                        Jo, wir machen Fotos
+                    <p class="fade" fade="fade-in-left" fade-delay="500">
+                        <a href="https://1drv.ms/u/s!As7inKc5Bt-zge5-O8AdruqtstXRdg?e=d7SXSX">Zu OneDrive</a>
                     </p>
                 </div>
                 <div class="cv-entity">
-                    <h3 class="year">
-                        ab 15:30Uhr
-                    </h3>
+                    <h2 class="fade" fade="fade-in-right">
+                        Feier
+                    </h2>
+                    <p class="fade" fade="fade-in-right" fade-delay="500">
+                        <a href="https://1drv.ms/u/s!As7inKc5Bt-zge58jGITb-j4N6nz8g?e=0OaAjc">Zu OneDrive</a>
+                    </p>
+                </div>
+                <div class="cv-entity">
                     <h2 class="fade" fade="fade-in-left">
-                        Sekt, Kaffee und Kuchen
+                        Gruppenfotos Feier
                     </h2>
                     <p class="fade" fade="fade-in-left" fade-delay="500">
-                        Im Anschluss zur Trauung treffen wir uns zum Kaffee und Kuchen
+                        <a href="https://1drv.ms/u/s!As7inKc5Bt-zge58jGITb-j4N6nz8g?e=p6bNBj">Zu OneDrive</a>
+                    </p>
+                </div>
+                <div class="cv-entity">
+                    <h2 class="fade" fade="fade-in-right">
+                        Fotoshooting Sophia & Tobit
+                    </h2>
+                    <p class="fade" fade="fade-in-right" fade-delay="500">
+                        <a href="https://1drv.ms/u/s!As7inKc5Bt-zge58jGITb-j4N6nz8g?e=grTEhH">Zu OneDrive</a>
                     </p>
                 </div>
             </div>

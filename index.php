@@ -77,10 +77,11 @@
             });
 
             var hash = window.location.hash.substr(1);
-            console.log($("#" + hash).offset().top);
-            $('html, body').animate({
-                scrollTop: $("#" + hash).offset().top
-            }, 1500);
+            if (hash) {
+                $('html, body').animate({
+                    scrollTop: $("#" + hash).offset().top
+                }, 1500);
+            }
 
             setTimeout(function() {
                 $('body').css("scroll-snap-type", "y proximity")
@@ -95,7 +96,6 @@
                 $('body').css("scroll-snap-type", "none");
 
                 var hash = $(this).attr("nav");
-                console.log(hash);
                 $('html, body').animate({
                     scrollTop: $("#" + hash).offset().top
                 }, 1500);
@@ -185,7 +185,7 @@
                         Feier
                     </h2>
                     <p class="fade" fade="fade-in-right" fade-delay="500">
-                        <a href="https://1drv.ms/u/s!As7inKc5Bt-zge58jGITb-j4N6nz8g?e=0OaAjc">Zu OneDrive</a>
+                        <a href="https://1drv.ms/u/s!As7inKc5Bt-zge5_NHwGh9UOqCLZZw?e=ToImIk">Zu OneDrive</a>
                     </p>
                 </div>
                 <div class="cv-entity">
@@ -193,7 +193,7 @@
                         Gruppenfotos Feier
                     </h2>
                     <p class="fade" fade="fade-in-left" fade-delay="500">
-                        <a href="https://1drv.ms/u/s!As7inKc5Bt-zge58jGITb-j4N6nz8g?e=p6bNBj">Zu OneDrive</a>
+                        <a href="https://1drv.ms/u/s!As7inKc5Bt-zgfhGdW93UScDXSHLxg?e=ZycnAS">Zu OneDrive</a>
                     </p>
                 </div>
                 <div class="cv-entity">
@@ -201,7 +201,7 @@
                         Fotoshooting Sophia & Tobit
                     </h2>
                     <p class="fade" fade="fade-in-right" fade-delay="500">
-                        <a href="https://1drv.ms/u/s!As7inKc5Bt-zge58jGITb-j4N6nz8g?e=grTEhH">Zu OneDrive</a>
+                        <a href="https://1drv.ms/u/s!As7inKc5Bt-zge59GmSPzv1L29rkHQ?e=bI9K3n">Zu OneDrive</a>
                     </p>
                 </div>
             </div>
